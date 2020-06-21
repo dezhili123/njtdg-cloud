@@ -26,6 +26,9 @@
         <module>cloud-consumerzk-order80</module>
         <module>cloud-providerconsul-payment8006</module>
         <module>cloud-consumerconsul-order80</module>
+      <module>cloud-stream-rabbitmq-provider8801</module>
+        <module>cloud-stream-rabbitmq-consumer8802</module>
+        <module>cloud-stream-rabbitmq-consumer8803</module>
     </modules>
     <packaging>pom</packaging>
 
